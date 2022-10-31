@@ -13,9 +13,7 @@
 <img  alt="Git" width="26px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
 <img  alt="Storybook" width="26px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"/><br/>
 
-## You  can contact me:
-[![Mail](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjTqFsUQxlyl4jf2aAEAkGP15fpqzexmD9V7-ykPrcag&s")](srs="malto:fanni@bk.ru")
-[![Telegram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAyGFTJFiTymI0t3XiKe9euBQK1BhId9lBBfQmPs01Q&s)](srs="'https://t.me/KseniyaFibi')<br/><br/>
+
 [![codewars](https://www.codewars.com/users/Kseniya%20Smirnova/badges/small)](https://www.codewars.com/users/Kseniya%20Smirnova)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fibi131904&theme=solarized_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fibi131904&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
